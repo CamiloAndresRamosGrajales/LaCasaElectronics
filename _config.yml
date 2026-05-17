@@ -19,6 +19,9 @@ force_theme: light
 paginate: 5
 paginate_path: "/blog/page:num"
 
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+
 # Disqus Comments
 disqus:
   # Leave shortname blank to disable comments site-wide.
